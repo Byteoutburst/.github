@@ -21,7 +21,7 @@ We are a consulting software company dedicated to providing straightforward solu
 
 ## Get in Touch
 
-Explore how we can help your business thrive. Contact us today at [contact@byteoutburst.com]!
+Explore how we can help your business thrive. Contact us today at contact@byteoutburst.com.
 
 ---
 [https://www.byteoutburst.com](https://www.byteoutburst.com/)
