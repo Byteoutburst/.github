@@ -5,7 +5,8 @@ Welcome to Byteoutburst!
 
 ## About Us
 
-We are a consulting software company dedicated to providing straightforward solutions to our clients at affordable rates. Our team is passionate about leveraging technology to solve real-world problems and streamline business operations.
+We are a consulting software company dedicated to providing straightforward solutions to our clients at affordable rates. 
+Our team is passionate about leveraging technology to solve real-world problems and streamline business operations.
 
 ## Services
 
